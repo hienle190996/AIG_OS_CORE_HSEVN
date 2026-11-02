@@ -12,7 +12,7 @@
 <input type="hidden" name="_subject" value="[HSEVN] Khách hàng đăng ký nhu cầu tư vấn thang máy">
 <input type="hidden" name="_template" value="table">
 <input type="hidden" name="_captcha" value="false">
-<input type="hidden" name="San_pham_dang_quan_tam" value="https://www.asiamedia.vn/p/chi-tiet-san-pham.html?type=thangmay&amp;id=sanphamdacthutamthoi:3d26a2b8-7140-4eb0-be71-30c203aefd08">
+<input type="hidden" name="San_pham_dang_quan_tam" value="https://www.asiamedia.vn/p/chi-tiet-san-pham.html?type=thangmay&amp;id=sanphamdacthutamthoi:9ecac923-6ce1-469e-b1f6-a6f6d070b650">
 <input type="hidden" id="selectedNeeds" name="Nhu_cau_da_chon" value="">
 <input type="hidden" name="Nguon" value="Email Marketing HSEVN - AIG OS CORE">
 <input type="text" name="_honey" class="honeypot" autocomplete="off" tabindex="-1" aria-hidden="true">
@@ -39,10 +39,18 @@
 <p class="meta">Yêu cầu được chuyển qua dịch vụ FormSubmit đến <strong>anhtuan.duong@asiamedia.vn</strong>. Không cần mở ứng dụng email.</p>
 </form></div>
 </main>
-<footer class="rowfoot"><div class="wrap"><div><strong>HSEVN · AIG OS CORE</strong><div>Giải pháp thang máy cho dự án xây dựng</div></div><div>Tư vấn: <a href="tel:+84966720072">0966 72 00 72</a><div>Hotline: <a href="tel:+84988858058">0988 858 058</a></div><div><a href="https://www.asiamedia.vn/p/chi-tiet-san-pham.html?type=thangmay&amp;id=sanphamdacthutamthoi:3d26a2b8-7140-4eb0-be71-30c203aefd08">Xem trang sản phẩm thang máy</a></div></div></div></footer>
+<footer class="rowfoot"><div class="wrap"><div><strong>HSEVN · AIG OS CORE</strong><div>Giải pháp thang máy cho dự án xây dựng</div></div><div>Tư vấn: <a href="tel:+84966720072">0966 72 00 72</a><div>Hotline: <a href="tel:+84988858958">0988 858 958</a></div><div><a href="https://www.asiamedia.vn/p/chi-tiet-san-pham.html?type=thangmay&amp;id=sanphamdacthutamthoi:9ecac923-6ce1-469e-b1f6-a6f6d070b650">Xem trang sản phẩm thang máy</a></div></div></div></footer>
 <script>
 (function(){
   var form=document.getElementById('hsevnForm'), selected=document.getElementById('selectedNeeds'), err=document.getElementById('needError');
+  var pid=(new URLSearchParams(location.search)).get('pid')||'';
+  if (/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(pid)) {
+    var url='https://www.asiamedia.vn/p/chi-tiet-san-pham.html?type=thangmay&id=sanphamdacthutamthoi:'+pid;
+    var input=document.querySelector('input[name="San_pham_dang_quan_tam"]');
+    if (input) input.value=url;
+    document.querySelectorAll('a[href*="sanphamdacthutamthoi:"]').forEach(function(a){a.href=url;});
+  }
+
   form.addEventListener('submit', function(e){
     var values=Array.from(form.querySelectorAll('input[data-need]:checked')).map(function(x){return x.value;});
     if (!values.length){e.preventDefault();err.style.display='block';form.querySelector('input[data-need]').focus();return;}
