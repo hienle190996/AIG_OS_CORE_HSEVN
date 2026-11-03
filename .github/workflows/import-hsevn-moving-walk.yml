@@ -49,3 +49,10 @@ jobs:
             git commit -m "Publish correct FUJIVISTA Moving Walk product images as JPEG"
             git push
           fi
+
+      - name: Package verified JPG sources for HTML offline embed
+        uses: actions/upload-artifact@v4
+        with:
+          name: fujivista-moving-walk-verified-jpg
+          path: assets/email/fujivista-moving-walk-source-*.jpg
+          retention-days: 7
