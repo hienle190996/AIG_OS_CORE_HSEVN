@@ -1,0 +1,431 @@
+{
+  "catalogue": "沃捷电梯产品手册(1).pdf",
+  "files": [
+    {
+      "sku": "AJ-PASS-SMR",
+      "filename": "AJ-PASS-SMR_Q.jpg",
+      "sha256": "3c2940bbcdce8b56dbf6d556201976d9f215b730f122bc6195f41ada85a4f101",
+      "bytes": 40487
+    },
+    {
+      "sku": "AJ-PASS-MRL",
+      "filename": "AJ-PASS-MRL_Q.jpg",
+      "sha256": "c08479be304f8bf6e84f880053abc66afde96a45b8a8819f2122f416e9bb1249",
+      "bytes": 43390
+    },
+    {
+      "sku": "AJ-VILLA-CO",
+      "filename": "AJ-VILLA-CO_Q.jpg",
+      "sha256": "79026a7ea63d44bdcd945c58ae190a014370bac68eedb59f254256208d291737",
+      "bytes": 38771
+    },
+    {
+      "sku": "AJ-VILLA-SO",
+      "filename": "AJ-VILLA-SO_Q.jpg",
+      "sha256": "efaacdb33172a9f798b94baabecc1d7e089dea2c4cd2aa80d359718f069d5132",
+      "bytes": 38126
+    },
+    {
+      "sku": "AJ-RETROFIT",
+      "filename": "AJ-RETROFIT_Q.jpg",
+      "sha256": "5f61c3a18f3b3dd30f22826b0eb9490408dffd72ad3757975b51c4c52e1de74f",
+      "bytes": 97367
+    },
+    {
+      "sku": "AJ-HOSP",
+      "filename": "AJ-HOSP_Q.jpg",
+      "sha256": "160831d515565bdab68a6938a6bf082030fceb91e3f5dcfb2bf04fb867740c36",
+      "bytes": 42127
+    },
+    {
+      "sku": "AJ-FREIGHT-MR",
+      "filename": "AJ-FREIGHT-MR_Q.jpg",
+      "sha256": "6046148f0e70c0b473f7cb6b42f72c8a639c58d726ae895566b9c485899d9c55",
+      "bytes": 55536
+    },
+    {
+      "sku": "AJ-FREIGHT-HEAVY",
+      "filename": "AJ-FREIGHT-HEAVY_Q.jpg",
+      "sha256": "7b7329b2853b683353da0ff9c91d2e3bf59b2d0309df70568ab8cd1d28032076",
+      "bytes": 52518
+    },
+    {
+      "sku": "AJ-FREIGHT-MRL",
+      "filename": "AJ-FREIGHT-MRL_Q.jpg",
+      "sha256": "39ded0c610190d0921a2663332b2b178cdd326cbc31ccb5c0b6a3ed4d3648b43",
+      "bytes": 41987
+    },
+    {
+      "sku": "AJ-K2401",
+      "filename": "AJ-K2401_Q.jpg",
+      "sha256": "f8d0155e91a29b23ea0cefa1cee4ba42d6334818d2d65580cb71809e5b4ffeae",
+      "bytes": 35814
+    },
+    {
+      "sku": "AJ-K2402",
+      "filename": "AJ-K2402_Q.jpg",
+      "sha256": "3bd61fc5188867b026752239df53a511e0764e38e0e765820101956abc5f3239",
+      "bytes": 37769
+    },
+    {
+      "sku": "AJ-K2403",
+      "filename": "AJ-K2403_Q.jpg",
+      "sha256": "69531670347d884027eaea3812be3cdbe1c931eccd6016e22232e56617e87f1a",
+      "bytes": 34661
+    },
+    {
+      "sku": "AJ-K2404",
+      "filename": "AJ-K2404_Q.jpg",
+      "sha256": "02c8450818de0d14e20062cc7157ff292aff20ba62422482f08f944a74a28975",
+      "bytes": 40834
+    },
+    {
+      "sku": "AJ-K2405",
+      "filename": "AJ-K2405_Q.jpg",
+      "sha256": "4d5a099291f70fff3816b4019dcf3b9e83288bd62738e84e93599f08c1d42b9e",
+      "bytes": 34894
+    },
+    {
+      "sku": "AJ-K2406",
+      "filename": "AJ-K2406_Q.jpg",
+      "sha256": "6256deaa28f2dc5f2803c1ee9e6914dfe9b1a5d538355127cf7081afbcc5c039",
+      "bytes": 38876
+    },
+    {
+      "sku": "AJ-K2407",
+      "filename": "AJ-K2407_Q.jpg",
+      "sha256": "25970b3d499371c71621aa56790f1c4e5bbf1620334c69cb0c0eb2590606ebe5",
+      "bytes": 48160
+    },
+    {
+      "sku": "AJ-K2408",
+      "filename": "AJ-K2408_Q.jpg",
+      "sha256": "eb5847e2b88674b1f1d72efe0b8a6b0845c04752a7ff564aced178b6f50000ea",
+      "bytes": 34124
+    },
+    {
+      "sku": "AJ-K2409",
+      "filename": "AJ-K2409_Q.jpg",
+      "sha256": "d6c38cbbf984fe826c067459866af70e853009d9c3b6beaf31c33b11c895470d",
+      "bytes": 33760
+    },
+    {
+      "sku": "AJ-K2410",
+      "filename": "AJ-K2410_Q.jpg",
+      "sha256": "fa1367782e742310b9866cac00ea0e83b6a58540e210b94235edc43a096adf0e",
+      "bytes": 34103
+    },
+    {
+      "sku": "AJ-K2411",
+      "filename": "AJ-K2411_Q.jpg",
+      "sha256": "1dd43b4cdee79b3d48fa83c28a24a21f9f37f840797ac2e919c69049d2ceb094",
+      "bytes": 29547
+    },
+    {
+      "sku": "AJ-K2412",
+      "filename": "AJ-K2412_Q.jpg",
+      "sha256": "343548ee8716eb1bf5dce4fdcccd37c10fa170ee581b08e8ab352b93af7b653c",
+      "bytes": 48058
+    },
+    {
+      "sku": "AJ-K2413",
+      "filename": "AJ-K2413_Q.jpg",
+      "sha256": "12ef061546fb8ab5bd5aee4bebdc76fd093427f3589b1dc56d382374c0c8acab",
+      "bytes": 52355
+    },
+    {
+      "sku": "AJ-K2414",
+      "filename": "AJ-K2414_Q.jpg",
+      "sha256": "f446f46a9caebba518b1fe75dc43413caf73d8ed150f76da078dc37e06fb7def",
+      "bytes": 53198
+    },
+    {
+      "sku": "AJ-K2415",
+      "filename": "AJ-K2415_Q.jpg",
+      "sha256": "a802eface9ca69480d7fb71d848abee9dd1ee3b431805e448b364e1871958d1e",
+      "bytes": 40074
+    },
+    {
+      "sku": "AJ-K2416",
+      "filename": "AJ-K2416_Q.jpg",
+      "sha256": "b30a23ea4561c20c4eb0a213d78a09a0ba6bf2286565500759286fc03c201beb",
+      "bytes": 36834
+    },
+    {
+      "sku": "AJ-K2417",
+      "filename": "AJ-K2417_Q.jpg",
+      "sha256": "387411c6e5418da308d4cf984a7df0638b7987f0e1070492ece3d8df2e21d625",
+      "bytes": 39388
+    },
+    {
+      "sku": "AJ-K2418",
+      "filename": "AJ-K2418_Q.jpg",
+      "sha256": "8273fb9161d6e8829420ac9fb2d4f6d66fe837be45ceae6d1313441d5aebb480",
+      "bytes": 36976
+    },
+    {
+      "sku": "AJ-K2419",
+      "filename": "AJ-K2419_Q.jpg",
+      "sha256": "378a1fec69522b077dcfb8006f81ccde96ecdd6fb889578aca916863cfdb940e",
+      "bytes": 44595
+    },
+    {
+      "sku": "AJ-K2420",
+      "filename": "AJ-K2420_Q.jpg",
+      "sha256": "1bd4998c3b7255feeaf5d6310c64de1e8014c39dadd93004bd969ed8a820c214",
+      "bytes": 37527
+    },
+    {
+      "sku": "AJ-K2421",
+      "filename": "AJ-K2421_Q.jpg",
+      "sha256": "5b74f90c09452b9f420a983339eeb2daf06b13c29ee00283cf961eff4210a550",
+      "bytes": 39096
+    },
+    {
+      "sku": "AJ-K2422",
+      "filename": "AJ-K2422_Q.jpg",
+      "sha256": "f5f496419e4ebe1fae941f5914a289fa68396a60e9108736cf4f62540ae227dd",
+      "bytes": 29769
+    },
+    {
+      "sku": "AJ-K2423",
+      "filename": "AJ-K2423_Q.jpg",
+      "sha256": "e3f6f756c59317701597a37cd46e01411b460a8a334da9be05c65034cd6864fd",
+      "bytes": 32198
+    },
+    {
+      "sku": "AJ-K2424",
+      "filename": "AJ-K2424_Q.jpg",
+      "sha256": "e4dd07ad97bd3c5dc7cafe3e98e989e046cc5db787b970c39d479d6d62b53828",
+      "bytes": 29203
+    },
+    {
+      "sku": "AJ-K2425",
+      "filename": "AJ-K2425_Q.jpg",
+      "sha256": "b2e413c1c535a374ab3474968499167a497f960431e8b3cc63479b94a87642cb",
+      "bytes": 33830
+    },
+    {
+      "sku": "AJ-K2426",
+      "filename": "AJ-K2426_Q.jpg",
+      "sha256": "88c878c4030baed741802250cbeeabca1bef2ddfbbe222ce988bac29a18198e7",
+      "bytes": 46182
+    },
+    {
+      "sku": "AJ-V2401",
+      "filename": "AJ-V2401_Q.jpg",
+      "sha256": "bee409ce4707ac3da111b90f17c1d30f6c6f4b912438d9b818a27f5d5d1ef2a3",
+      "bytes": 26757
+    },
+    {
+      "sku": "AJ-V2402",
+      "filename": "AJ-V2402_Q.jpg",
+      "sha256": "159c834d6e84fa5ac2bc92cb94032277506637da1f964892e016a7e37fb182d0",
+      "bytes": 32983
+    },
+    {
+      "sku": "AJ-V2403",
+      "filename": "AJ-V2403_Q.jpg",
+      "sha256": "6f3eb2d9a5032929c59059ccf0bf73b00e7e0dde46ae982027d5a6ed0b1c57d5",
+      "bytes": 35581
+    },
+    {
+      "sku": "AJ-V2404",
+      "filename": "AJ-V2404_Q.jpg",
+      "sha256": "7cf4ea2b876f8e04624e26d0b45fae04f64afb7813990c74c7a7c012387d250c",
+      "bytes": 27071
+    },
+    {
+      "sku": "AJ-V2405",
+      "filename": "AJ-V2405_Q.jpg",
+      "sha256": "44beeaa5a5ccf8c5668e90a0a75579b867a196819308bf044fb1b55accfa49fe",
+      "bytes": 36054
+    },
+    {
+      "sku": "AJ-V2406",
+      "filename": "AJ-V2406_Q.jpg",
+      "sha256": "cc24977360b7940db24a01eaca204bf76cbe82eb3063568b45acdc9ce04a6bf9",
+      "bytes": 40493
+    },
+    {
+      "sku": "AJ-V2407",
+      "filename": "AJ-V2407_Q.jpg",
+      "sha256": "a35b945bc1c2be41697257c6e6c3bfd2824dcaa44cf2fb40c5c5a66fe257e51e",
+      "bytes": 37676
+    },
+    {
+      "sku": "AJ-V2408",
+      "filename": "AJ-V2408_Q.jpg",
+      "sha256": "bb57cc92df898c12ee6daae6d8239eca78a6b174b505a41b1170c2db09b10305",
+      "bytes": 37227
+    },
+    {
+      "sku": "AJ-V2409",
+      "filename": "AJ-V2409_Q.jpg",
+      "sha256": "35b85a2650de8ac4a1b558a72aabf6b03d4e622f53ab746cfb231e4ef6340db4",
+      "bytes": 25414
+    },
+    {
+      "sku": "AJ-V2410",
+      "filename": "AJ-V2410_Q.jpg",
+      "sha256": "26e5c2d7ae54350ccd8238b1708bdff9e5fb5acace0c4b04fd911e165711f4ba",
+      "bytes": 31468
+    },
+    {
+      "sku": "AJ-V2411",
+      "filename": "AJ-V2411_Q.jpg",
+      "sha256": "444d9a7743904adf66eabe76027cbac6adc8a5a69d2f9c7a1901d22e1ff3a467",
+      "bytes": 45416
+    },
+    {
+      "sku": "AJ-V2412",
+      "filename": "AJ-V2412_Q.jpg",
+      "sha256": "8a8d15653005638c30d00a68274d5a4c1622ab6758bb614c5998f3bbb75ee55b",
+      "bytes": 58173
+    },
+    {
+      "sku": "AJ-V2413",
+      "filename": "AJ-V2413_Q.jpg",
+      "sha256": "3fcb308f9447f2b48b2b3d209be6df3f9ca3b791df21331d1c6b19e2bed558c3",
+      "bytes": 31046
+    },
+    {
+      "sku": "AJ-V2414",
+      "filename": "AJ-V2414_Q.jpg",
+      "sha256": "d5dc09d2100d049baaa8bef26f79d8fb0cd8fc39e87bc6e54758b0f01173d132",
+      "bytes": 34087
+    },
+    {
+      "sku": "AJ-V2415",
+      "filename": "AJ-V2415_Q.jpg",
+      "sha256": "ffba93f4cb981aeabf6f7829e2214ce72177f359cd6bb92b656a4ec7b67d4020",
+      "bytes": 26935
+    },
+    {
+      "sku": "AJ-V2416",
+      "filename": "AJ-V2416_Q.jpg",
+      "sha256": "2b8b57120ef285a6cd4c9d5178dd6fe3749f583ad09e84682de97f8f6fa2ac8b",
+      "bytes": 26899
+    },
+    {
+      "sku": "AJ-V2417",
+      "filename": "AJ-V2417_Q.jpg",
+      "sha256": "6d7027eb147411421899d274216c1149d3af9ee9e0c38550c4dc65eb597a35c8",
+      "bytes": 30850
+    },
+    {
+      "sku": "AJ-V2418",
+      "filename": "AJ-V2418_Q.jpg",
+      "sha256": "4b3a8536d1f1d5bdec180ebde11ddfc98d95ea119f9966354a485d9778acdca5",
+      "bytes": 40062
+    },
+    {
+      "sku": "AJ-V2419",
+      "filename": "AJ-V2419_Q.jpg",
+      "sha256": "cce8089d2455d48c7e507072c00fa61abfbc49cbe1759410560f219eed99adea",
+      "bytes": 34857
+    },
+    {
+      "sku": "AJ-V2420",
+      "filename": "AJ-V2420_Q.jpg",
+      "sha256": "7ec36bbf2f1dc2caf6bc7d6e781ab0ae2c14352b0c3b9200687151e65276fb2f",
+      "bytes": 33122
+    },
+    {
+      "sku": "AJ-V2421",
+      "filename": "AJ-V2421_Q.jpg",
+      "sha256": "7884b8a2cd4130a2729117cfe4c82c0bc34ec0e631cf1aa0a893838e81362527",
+      "bytes": 32079
+    },
+    {
+      "sku": "AJ-V2422",
+      "filename": "AJ-V2422_Q.jpg",
+      "sha256": "35d6833ab42c15999284e536818d0c854fe2e6161fd410091dd246fd18f16e18",
+      "bytes": 51782
+    },
+    {
+      "sku": "AJ-V2423",
+      "filename": "AJ-V2423_Q.jpg",
+      "sha256": "8e81a01c4c0e48359a55c5799c16231f99179eaa3a0fa0f335c76796ffe4c4e7",
+      "bytes": 30835
+    },
+    {
+      "sku": "AJ-V2424",
+      "filename": "AJ-V2424_Q.jpg",
+      "sha256": "c8358ee6cd0e08a65245607100091e3eefcc4639c998a26445311c8ef06140f9",
+      "bytes": 42041
+    },
+    {
+      "sku": "AJ-V2425",
+      "filename": "AJ-V2425_Q.jpg",
+      "sha256": "d8eda9b1bf286f9652db7bb4453e11086758ee577f079be38a6bc538ff0297ed",
+      "bytes": 37531
+    },
+    {
+      "sku": "AJ-V2426",
+      "filename": "AJ-V2426_Q.jpg",
+      "sha256": "c5e8ef41d68bd606e5e4c2a608c91a500916ed5a06a07c70d5b5bad8b0aebaa1",
+      "bytes": 40310
+    },
+    {
+      "sku": "AJ-V2427",
+      "filename": "AJ-V2427_Q.jpg",
+      "sha256": "d694edad0624cffb8568b56e2a45050bf9db8615db95ba2a865592dc434ea72a",
+      "bytes": 31997
+    },
+    {
+      "sku": "AJ-V2428",
+      "filename": "AJ-V2428_Q.jpg",
+      "sha256": "8ca6fd7946d78ff4238c737e728f0c724d40e0f6d5c66f31d772ece5d947d43d",
+      "bytes": 35798
+    },
+    {
+      "sku": "AJ-V2429",
+      "filename": "AJ-V2429_Q.jpg",
+      "sha256": "701f4e668530b63a6842472c93c13ddb1ca1b2fdf44439dbdcd8dcb379f6095d",
+      "bytes": 39752
+    },
+    {
+      "sku": "AJ-V2430",
+      "filename": "AJ-V2430_Q.jpg",
+      "sha256": "6e15dd9c8b61bd936778654cc83aec5b18a7060a728dde7b81a71b75d05f13c2",
+      "bytes": 36169
+    },
+    {
+      "sku": "AJ-V2431",
+      "filename": "AJ-V2431_Q.jpg",
+      "sha256": "21695a8bfeb20e4a87455d12814c4f3294404c2dd807873845a324b6cea1ed2a",
+      "bytes": 34485
+    },
+    {
+      "sku": "AJ-V2432",
+      "filename": "AJ-V2432_Q.jpg",
+      "sha256": "addd16be27cad3a69cb8661baade8514249edd351182de476387b0cb47cd5283",
+      "bytes": 32811
+    },
+    {
+      "sku": "AJ-V2433",
+      "filename": "AJ-V2433_Q.jpg",
+      "sha256": "c426e38d8329d867d03d6f7131d572ee8335ae69fa94d283d5df881b08b80fa0",
+      "bytes": 27930
+    },
+    {
+      "sku": "AJ-V2434",
+      "filename": "AJ-V2434_Q.jpg",
+      "sha256": "dfee63f32f12cf2e2c4c8c7133b374f0fa5640ef226187136c738272f82b052c",
+      "bytes": 28490
+    },
+    {
+      "sku": "AJ-H001",
+      "filename": "AJ-H001_Q.jpg",
+      "sha256": "1a76623556c0393de003df981a795143ae65d6eb7e3f408d88fde3e667fc37ea",
+      "bytes": 37808
+    },
+    {
+      "sku": "AJ-H002",
+      "filename": "AJ-H002_Q.jpg",
+      "sha256": "839b1ce143bb849bfafa6a08b429ab83c0daddb65a725b8f3bd420b85ca19892",
+      "bytes": 27084
+    }
+  ]
+}
