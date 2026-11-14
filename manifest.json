@@ -1,0 +1,188 @@
+{
+  "source": "20260421电梯样册.pdf",
+  "fileCount": 60,
+  "catalogueImage": true,
+  "notes": "For 16 cabin options, AD1 and AD2 are alternate crops of the SAME exact catalogue cabin photo; not different models or independent manufacturer's product photos.",
+  "products": [
+    {
+      "code": "S8",
+      "sourcePage": 4,
+      "images": {
+        "Q": "images/S8_Q.jpg",
+        "AD1": "images/S8_AD1.jpg",
+        "AD2": "images/S8_AD2.jpg"
+      }
+    },
+    {
+      "code": "S1",
+      "sourcePage": 6,
+      "images": {
+        "Q": "images/S1_Q.jpg",
+        "AD1": "images/S1_AD1.jpg",
+        "AD2": "images/S1_AD2.jpg"
+      }
+    },
+    {
+      "code": "S5",
+      "sourcePage": 8,
+      "images": {
+        "Q": "images/S5_Q.jpg",
+        "AD1": "images/S5_AD1.jpg",
+        "AD2": "images/S5_AD2.jpg"
+      }
+    },
+    {
+      "code": "S9",
+      "sourcePage": 10,
+      "images": {
+        "Q": "images/S9_Q.jpg",
+        "AD1": "images/S9_AD1.jpg",
+        "AD2": "images/S9_AD2.jpg"
+      }
+    },
+    {
+      "code": "S8-01",
+      "sourcePage": 5,
+      "images": {
+        "Q": "images/S8-01_Q.jpg",
+        "AD1": "images/S8-01_AD1.jpg",
+        "AD2": "images/S8-01_AD2.jpg"
+      }
+    },
+    {
+      "code": "S8-02",
+      "sourcePage": 5,
+      "images": {
+        "Q": "images/S8-02_Q.jpg",
+        "AD1": "images/S8-02_AD1.jpg",
+        "AD2": "images/S8-02_AD2.jpg"
+      }
+    },
+    {
+      "code": "S8-03",
+      "sourcePage": 5,
+      "images": {
+        "Q": "images/S8-03_Q.jpg",
+        "AD1": "images/S8-03_AD1.jpg",
+        "AD2": "images/S8-03_AD2.jpg"
+      }
+    },
+    {
+      "code": "S8-04",
+      "sourcePage": 5,
+      "images": {
+        "Q": "images/S8-04_Q.jpg",
+        "AD1": "images/S8-04_AD1.jpg",
+        "AD2": "images/S8-04_AD2.jpg"
+      }
+    },
+    {
+      "code": "S1-01",
+      "sourcePage": 7,
+      "images": {
+        "Q": "images/S1-01_Q.jpg",
+        "AD1": "images/S1-01_AD1.jpg",
+        "AD2": "images/S1-01_AD2.jpg"
+      }
+    },
+    {
+      "code": "S1-02",
+      "sourcePage": 7,
+      "images": {
+        "Q": "images/S1-02_Q.jpg",
+        "AD1": "images/S1-02_AD1.jpg",
+        "AD2": "images/S1-02_AD2.jpg"
+      }
+    },
+    {
+      "code": "S1-03",
+      "sourcePage": 7,
+      "images": {
+        "Q": "images/S1-03_Q.jpg",
+        "AD1": "images/S1-03_AD1.jpg",
+        "AD2": "images/S1-03_AD2.jpg"
+      }
+    },
+    {
+      "code": "S1-04",
+      "sourcePage": 7,
+      "images": {
+        "Q": "images/S1-04_Q.jpg",
+        "AD1": "images/S1-04_AD1.jpg",
+        "AD2": "images/S1-04_AD2.jpg"
+      }
+    },
+    {
+      "code": "S5-01",
+      "sourcePage": 9,
+      "images": {
+        "Q": "images/S5-01_Q.jpg",
+        "AD1": "images/S5-01_AD1.jpg",
+        "AD2": "images/S5-01_AD2.jpg"
+      }
+    },
+    {
+      "code": "S5-02",
+      "sourcePage": 9,
+      "images": {
+        "Q": "images/S5-02_Q.jpg",
+        "AD1": "images/S5-02_AD1.jpg",
+        "AD2": "images/S5-02_AD2.jpg"
+      }
+    },
+    {
+      "code": "S5-03",
+      "sourcePage": 9,
+      "images": {
+        "Q": "images/S5-03_Q.jpg",
+        "AD1": "images/S5-03_AD1.jpg",
+        "AD2": "images/S5-03_AD2.jpg"
+      }
+    },
+    {
+      "code": "S5-04",
+      "sourcePage": 9,
+      "images": {
+        "Q": "images/S5-04_Q.jpg",
+        "AD1": "images/S5-04_AD1.jpg",
+        "AD2": "images/S5-04_AD2.jpg"
+      }
+    },
+    {
+      "code": "S9-01",
+      "sourcePage": 11,
+      "images": {
+        "Q": "images/S9-01_Q.jpg",
+        "AD1": "images/S9-01_AD1.jpg",
+        "AD2": "images/S9-01_AD2.jpg"
+      }
+    },
+    {
+      "code": "S9-02",
+      "sourcePage": 11,
+      "images": {
+        "Q": "images/S9-02_Q.jpg",
+        "AD1": "images/S9-02_AD1.jpg",
+        "AD2": "images/S9-02_AD2.jpg"
+      }
+    },
+    {
+      "code": "S9-03",
+      "sourcePage": 11,
+      "images": {
+        "Q": "images/S9-03_Q.jpg",
+        "AD1": "images/S9-03_AD1.jpg",
+        "AD2": "images/S9-03_AD2.jpg"
+      }
+    },
+    {
+      "code": "S9-04",
+      "sourcePage": 11,
+      "images": {
+        "Q": "images/S9-04_Q.jpg",
+        "AD1": "images/S9-04_AD1.jpg",
+        "AD2": "images/S9-04_AD2.jpg"
+      }
+    }
+  ]
+}
