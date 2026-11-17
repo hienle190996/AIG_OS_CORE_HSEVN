@@ -1,3 +1,3 @@
-# AIG OS CORE HSEVN
+# KUIKO KOT SERIES 2026 – 33 sản phẩm, 99 ảnh JPG
 
-Tài nguyên hình ảnh công khai phục vụ Email Marketing HSEVN. Hình ảnh trong `assets/email/` là ảnh minh họa, không phải ảnh xác nhận model hoặc công trình đã triển khai.
+Bộ ảnh trích từ KUIKO KOT Series Passenger Elevator Catalog 2026. Ảnh gồm Q/AD1/AD2 cho 33 mã. Vui lòng đối chiếu cùng hồ sơ và catalogue chính thức trước khi bán.
