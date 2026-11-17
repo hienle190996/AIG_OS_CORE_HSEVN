@@ -1,0 +1,1 @@
+KUIKO Elevator - 42 different AD photo/details images for 21 product codes. AD1 is the alternate catalogue view or matching control panels. AD2 is a visual montage of ceiling/wall/floor or cabin structural details. All images are JPG files; images can derive from a common catalogue photograph and do not imply independent manufacturer photography.
